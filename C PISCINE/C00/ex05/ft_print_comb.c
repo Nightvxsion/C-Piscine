@@ -45,3 +45,5 @@ void	ft_print_comb(void)
 	ft_print_comb();
 	return (0);
 }*/
+// ES:
+// 1. Este ya es un poco mas complejo ya que hay que jugar 
